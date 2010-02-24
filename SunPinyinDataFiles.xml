@@ -10,7 +10,7 @@
 		<key>Size</key>
 		<integer>24377496</integer>
 		<key>URL</key>
-		<string>http://sunpinyin.googlecode.fom/files/lm_sc.t3g.be</string>
+		<string>http://sunpinyin.googlecode.com/files/lm_sc.t3g.be</string>
 	</dict>
 	<dict>
 		<key>Name</key>
@@ -20,7 +20,7 @@
 		<key>Size</key>
 		<integer>24377496</integer>
 		<key>URL</key>
-		<string>http://sunpinyin.googlecode.fom/files/lm_sc.t3g.le</string>
+		<string>http://sunpinyin.googlecode.com/files/lm_sc.t3g.le</string>
 	</dict>
 	<dict>
 		<key>Name</key>
@@ -30,7 +30,7 @@
 		<key>Size</key>
 		<integer>6862056</integer>
 		<key>URL</key>
-		<string>http://sunpinyin.googlecode.fom/files/pydict_sc.bin.be</string>
+		<string>http://sunpinyin.googlecode.com/files/pydict_sc.bin.be</string>
 	</dict>
 	<dict>
 		<key>Name</key>
@@ -40,7 +40,7 @@
 		<key>Size</key>
 		<integer>6862056</integer>
 		<key>URL</key>
-		<string>http://sunpinyin.googlecode.fom/files/pydict_sc.bin.le</string>
+		<string>http://sunpinyin.googlecode.com/files/pydict_sc.bin.le</string>
 	</dict>
 </array>
 </plist>
