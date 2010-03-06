@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <channel>
+      <title>SunPinyin Changelog</title>
+      <link>http://release.sunpinyin.googlecode.com/hg/SunpinyinAppcast.xml</link>
+      <description>Most recent changes with links to SunPinyin updates.</description>
+      <language>en</language>      
+        <item>
+            <title>Version 2.0</title>
+            <sparkle:releaseNotesLink>
+                http://release.sunpinyin.googlecode.com/hg/SunpinyinReleaseNotes.xml
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 06 Mar 2010 21:11:36 +0900</pubDate>
+            <enclosure url="http://sunpinyin.googlecode.com/files/SunPinyin-2.0.zip" 
+                length="1576578"
+                type="application/octet-stream"
+                sparkle:version="2.0"
+                sparkle:dsaSignature="MC0CFHEoooq2kXT2x4C+9fhQ2M2szf8VAhUAhkJlwRq8SQai+TpGZ7hVkeZpz+4=" />
+         </item>
+     </channel>
+
+</rss>
