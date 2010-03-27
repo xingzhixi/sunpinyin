@@ -7,16 +7,16 @@
       <description>Most recent changes with links to SunPinyin updates.</description>
       <language>en</language>      
         <item>
-            <title>Version 2.0</title>
+            <title>Version 2.0.1</title>
             <sparkle:releaseNotesLink>
                 http://release.sunpinyin.googlecode.com/hg/SunpinyinReleaseNotes.xml
             </sparkle:releaseNotesLink>
-            <pubDate>Sat, 06 Mar 2010 22:20:33 +0900</pubDate>
-            <enclosure url="http://sunpinyin.googlecode.com/files/SunPinyin-MacOS-2.0.zip" 
-                length="1576268"
+            <pubDate>Sun, 28 Mar 2010 00:59:24 +0900</pubDate>
+            <enclosure url="http://sunpinyin.googlecode.com/files/SunPinyin-MacOS-2.0.1.zip" 
+                length="841294"
                 type="application/octet-stream"
-                sparkle:version="2.0"
-                sparkle:dsaSignature="MC0CFFt0Urj89d6Pn9brC/Rf4UFSgfOCAhUAgH4Crsy3QFxUI72mB+3Svi/GnVI=" />
+                sparkle:version="2.0.1"
+                sparkle:dsaSignature="MCwCFAlsQ3LbAjbh4biKkkqEu7cZzlqcAhR+lpWq5LOihfmsEIKT7ww5ovrHTg==" />
          </item>
      </channel>
 

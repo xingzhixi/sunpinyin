@@ -8,6 +8,13 @@
 </head>
 
 <body>
+<h2>2.0.1</h2>
+<ol>
+    <li>修正了和Chrome的兼容性问题 (<a href="http://code.google.com/p/sunpinyin/issues/detail?id=52">#52</a>, <a href="http://code.google.com/p/sunpinyin/issues/detail?id=53">#53</a>)，虽然应该说是Chrome的问题 :(</li>
+    <li>将ign->ing的纠错改为gn->ng，以支持ogn->ong, egn->eng等组合</li>
+    <li>加入了用上下箭头做翻页键的选项 (<a href="http://code.google.com/p/sunpinyin/issues/detail?id=70">#70</a>)</li>
+</ol>
+
 <h2>2.0</h2>
 <ol>
     <li>支持易混淆音和自动纠错。</li>
