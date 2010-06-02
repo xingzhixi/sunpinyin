@@ -8,6 +8,15 @@
 </head>
 
 <body>
+
+<h2>2.0.2</h2>
+<ol>
+    <li>加入了模糊切分的支持（例如根据上下文将fangan切分为fang'an或fan'gan）</li>
+    <li>扩大了用户词典的容量，以支持大容量的用户词典导入</li>
+    <li>支持全角空格的输入（但尚不支持全角的小写英文字母）</li>
+    <li>开始使用open-gram项目的词库和语言模型，会导致您的history cache失效</li>
+</ol>
+
 <h2>2.0.1</h2>
 <ol>
     <li>修正了和Chrome的兼容性问题 (<a href="http://code.google.com/p/sunpinyin/issues/detail?id=52">#52</a>, <a href="http://code.google.com/p/sunpinyin/issues/detail?id=53">#53</a>)，虽然应该说是Chrome的问题 :(</li>

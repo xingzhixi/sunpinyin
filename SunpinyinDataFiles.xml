@@ -16,7 +16,7 @@
 		<key>Name</key>
 		<string>lm_sc.t3g.le</string>
 		<key>SHA256</key>
-		<string>5eb9cbbc7b2a652ce3a9888140fefdcf792ef04ec474a063e48b5d29e55134fe</string>
+		<string>19fc48f76fe639d47986e1aca15fdd566acd141eb4ee35dcaccb50236f6030a7</string>
 		<key>Size</key>
 		<integer>24377496</integer>
 		<key>URL</key>
@@ -36,7 +36,7 @@
 		<key>Name</key>
 		<string>pydict_sc.bin.le</string>
 		<key>SHA256</key>
-		<string>294fc71a65330670f45807ff2b3c8d3db61cc5a7e5c12fd21adcf5a9952a7c51</string>
+		<string>c9f3e77be327680d5a23533b9181461d2ff36372eff12a9192db4e6e7c8ad7b4</string>
 		<key>Size</key>
 		<integer>6239508</integer>
 		<key>URL</key>
