@@ -11,12 +11,12 @@
             <sparkle:releaseNotesLink>
                 http://release.sunpinyin.googlecode.com/hg/SunpinyinReleaseNotes.xml
             </sparkle:releaseNotesLink>
-            <pubDate>Wed, 02 Jun 2010 21:07:10 +0900</pubDate>
+            <pubDate>Sat, 05 Jun 2010 21:28:19 +0900</pubDate>
             <enclosure url="http://sunpinyin.googlecode.com/files/SunPinyin-MacOS-2.0.2.zip" 
-                length="18592384"
+                length="18592905"
                 type="application/octet-stream"
                 sparkle:version="2.0.2"
-                sparkle:dsaSignature="MCwCFEIxYhJjI9R2jjDxd9rdBGcOObsBAhQLWZaGS7f7nzDSDmDXFv6MENv9Bw==" />
+                sparkle:dsaSignature="MCwCFACLYrTixx/XuRkAUs6MOfBZO+uoAhQDbTK0F30PrJU/kShlQQQOY4/bSA==" />
          </item>
      </channel>
 
