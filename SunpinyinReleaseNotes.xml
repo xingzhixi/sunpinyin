@@ -9,6 +9,16 @@
 
 <body>
 
+<h2>2.0.2.1008（2010年8月）</h2>
+<ol>
+    <li>加入了关闭/打开内模糊切分的选项</li>
+    <li>加入了使用backspace取消用户选择的选项</li>
+    <li>升级系统词库和语言模型至open-gram 0.1.20</li>
+    <li>解决了Sparkle升级时无法打开安装包的问题</li>
+    <li>加入了小鹤双拼方案的支持</li>
+    <li>bugfixes若干</li>
+</ol>
+
 <h2>2.0.2</h2>
 <ol>
     <li>加入了模糊切分的支持（例如根据上下文将fangan切分为fang'an或fan'gan）</li>
