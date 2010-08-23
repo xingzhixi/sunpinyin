@@ -6,9 +6,9 @@
 		<key>Name</key>
 		<string>lm_sc.t3g.be</string>
 		<key>SHA256</key>
-		<string>9390ca5050fe3dc50af68e276b7ab1e089799b9bfe26b700daa42095afec804b</string>
+		<string>610befecb76ebf598c6c01d1c966500dff0f7a0a8304db4f199716e6b594c7e3</string>
 		<key>Size</key>
-		<integer>24599652</integer>
+		<integer>24602088</integer>
 		<key>URL</key>
 		<string>http://sunpinyin.googlecode.com/files/lm_sc.t3g.be</string>
 	</dict>
@@ -16,9 +16,9 @@
 		<key>Name</key>
 		<string>lm_sc.t3g.le</string>
 		<key>SHA256</key>
-		<string>3eb87cc9895cb9da731f3264fa2807d4cfbcd8bc37160a523876c2c48810c5eb</string>
+		<string>260ee29d8d5e1665db47bbb16a6549f405a9fd79c4838b3b975fe28c92e05c12</string>
 		<key>Size</key>
-		<integer>24599652</integer>
+		<integer>24602088</integer>
 		<key>URL</key>
 		<string>http://sunpinyin.googlecode.com/files/lm_sc.t3g.le</string>
 	</dict>
@@ -26,9 +26,9 @@
 		<key>Name</key>
 		<string>pydict_sc.bin.be</string>
 		<key>SHA256</key>
-		<string>bdeffe5afedbab75c82d7a161675defd65ec5557b488244ac6f0051055f42dd3</string>
+		<string>c9bd5afe8728dfe1de8aa9517ca320afe04e59c33d81048fa8b328136bb8dd7b</string>
 		<key>Size</key>
-		<integer>9539032</integer>
+		<integer>9535448</integer>
 		<key>URL</key>
 		<string>http://sunpinyin.googlecode.com/files/pydict_sc.bin.be</string>
 	</dict>
@@ -36,9 +36,9 @@
 		<key>Name</key>
 		<string>pydict_sc.bin.le</string>
 		<key>SHA256</key>
-		<string>5f7a29d0820142c62ac06bbcf9897b2f038227cf5a8e6cdefd61d1806b7285eb</string>
+		<string>973c6b3aecb45fb31875bbf08abede01e506e19c7ef32b23d1388b0ebe4d6a08</string>
 		<key>Size</key>
-		<integer>9539032</integer>
+		<integer>9535448</integer>
 		<key>URL</key>
 		<string>http://sunpinyin.googlecode.com/files/pydict_sc.bin.le</string>
 	</dict>
