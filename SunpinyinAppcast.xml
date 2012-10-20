@@ -3,20 +3,20 @@
 
     <channel>
       <title>SunPinyin Changelog</title>
-      <link>http://release.sunpinyin.googlecode.com/hg/SunpinyinAppcast.xml</link>
+      <link>http://release.sunpinyin.googlecode.com/git/SunpinyinAppcast.xml</link>
       <description>Most recent changes with links to SunPinyin updates.</description>
       <language>en</language>      
         <item>
-            <title>Version 2.0.2.1008</title>
+            <title>Version 2.0.4.1020</title>
             <sparkle:releaseNotesLink>
-                http://release.sunpinyin.googlecode.com/hg/SunpinyinReleaseNotes.xml
+                http://release.sunpinyin.googlecode.com/git/SunpinyinReleaseNotes.xml
             </sparkle:releaseNotesLink>
-            <pubDate>Mon, 23 Aug 2010 21:21:47 +0900</pubDate>
-            <enclosure url="http://sunpinyin.googlecode.com/files/SunPinyin-MacOS-2.0.2.1008.zip" 
-                length="20253801"
+            <pubDate>Sat, 20 Oct 2012 12:21:58 +0800</pubDate>
+            <enclosure url="http://sunpinyin.googlecode.com/files/SunPinyin-MacOS-2.0.4.1020.zip"
+                length="70534"
                 type="application/octet-stream"
-                sparkle:version="2.0.2.1008"
-                sparkle:dsaSignature="MCwCFCKja1Hdo80RNm3t8+XlfaQz6cbOAhQeyvo0vpTWBjrzd9ApK/eDGf6aPQ==" />
+                sparkle:version="2.0.4.1020"
+                sparkle:dsaSignature="MCwCFAyWdFSQ7358F2miHqHETmDw1RHgAhQ1KYsCFZAWDcpRpMbJQDhxhmgZOQ==" />
          </item>
      </channel>
 

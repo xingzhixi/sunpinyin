@@ -1,46 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
 	<dict>
 		<key>Name</key>
-		<string>lm_sc.t3g.be</string>
-		<key>SHA256</key>
-		<string>610befecb76ebf598c6c01d1c966500dff0f7a0a8304db4f199716e6b594c7e3</string>
-		<key>Size</key>
-		<integer>24602088</integer>
-		<key>URL</key>
-		<string>http://sunpinyin.googlecode.com/files/lm_sc.t3g.be</string>
-	</dict>
-	<dict>
-		<key>Name</key>
 		<string>lm_sc.t3g.le</string>
 		<key>SHA256</key>
-		<string>260ee29d8d5e1665db47bbb16a6549f405a9fd79c4838b3b975fe28c92e05c12</string>
+		<string>454722dfc109760eda5602183480f14170d29959b3b215109fd7b541a0f6faae</string>
 		<key>Size</key>
-		<integer>24602088</integer>
+		<integer>24603660</integer>
 		<key>URL</key>
 		<string>http://sunpinyin.googlecode.com/files/lm_sc.t3g.le</string>
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>pydict_sc.bin.be</string>
+		<string>pydict3_sc.bin.le</string>
 		<key>SHA256</key>
-		<string>c9bd5afe8728dfe1de8aa9517ca320afe04e59c33d81048fa8b328136bb8dd7b</string>
+		<string>68ec62cee63b113024006b618581b490a986fd721062488139229a6622ba6e9b</string>
 		<key>Size</key>
-		<integer>9535448</integer>
+		<integer>3910564</integer>
 		<key>URL</key>
-		<string>http://sunpinyin.googlecode.com/files/pydict_sc.bin.be</string>
-	</dict>
-	<dict>
-		<key>Name</key>
-		<string>pydict_sc.bin.le</string>
-		<key>SHA256</key>
-		<string>973c6b3aecb45fb31875bbf08abede01e506e19c7ef32b23d1388b0ebe4d6a08</string>
-		<key>Size</key>
-		<integer>9535448</integer>
-		<key>URL</key>
-		<string>http://sunpinyin.googlecode.com/files/pydict_sc.bin.le</string>
+		<string>http://sunpinyin.googlecode.com/files/pydict3_sc.bin.le</string>
 	</dict>
 </array>
 </plist>
