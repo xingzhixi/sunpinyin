@@ -14,13 +14,13 @@
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>pydict3_sc.bin.le</string>
+		<string>pydict_sc.bin.le</string>
 		<key>SHA256</key>
-		<string>68ec62cee63b113024006b618581b490a986fd721062488139229a6622ba6e9b</string>
+		<string>e65963668a6857f91dd38542a01682688ea1a0f5a570e90382f7a4b5ea1bfa0f</string>
 		<key>Size</key>
-		<integer>3910564</integer>
+		<integer>9535860</integer>
 		<key>URL</key>
-		<string>http://sunpinyin.googlecode.com/files/pydict3_sc.bin.le</string>
+		<string>http://sunpinyin.googlecode.com/files/pydict_sc.bin.le</string>
 	</dict>
 </array>
 </plist>
